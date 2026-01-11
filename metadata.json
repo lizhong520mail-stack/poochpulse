@@ -1,0 +1,7 @@
+{
+  "name": "PoochPulse: Canine Health Tracker",
+  "description": "An AI-powered health monitoring app for dog owners to track and analyze stool health using computer vision for early detection of potential digestive issues.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
